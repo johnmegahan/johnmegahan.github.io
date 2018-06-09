@@ -4,17 +4,17 @@
 #+Description: The reading list of Johnny Megahan.
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
 
-* Currently Reading
+* Currently reading
 - [[http://www.kodanshausa.com/books/9781568364148/][Read Real Japanese (Essays)]]
 
-* Summer Reading Queue
+* Summer reading list
 - [[https://profilebooks.com/the-art-of-logic-hb.html][The Art of Logic]]
 - [[http://www.math.jhu.edu/~eriehl/context/][Category Theory in Context]]
 - [[http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven Sketches in Compositionality]]
 - [[https://www.harpercollins.com/9780060883287/one-hundred-years-of-solitude/][One Hundred Years of Solitude]]
 - [[http://www.kodanshausa.com/books/9781568365299/][Read Real Japanese (Fiction)]]
 
-* Previously Read
+* Previously on the list
 - [[https://softwarefoundations.cis.upenn.edu/current/index.html][Software Foundations]]
 - [[http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf][Category Theory: A Gentle Introduction]]
 - [[https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/][Type Theory and Functional Programming]]
