@@ -4,16 +4,12 @@
 #+Description: The home page of Johnny Megahan, a senior software engineer who is currently contributing to Uber's Web Platform team.
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
 
-* よろしくお願いします
+* ようこそ！
 
 Hello, I'm Johnny. I am a senior software engineer who is currently on sabbatical to study Category Theory and Japanese. I've been contributing to Uber's Web Platform team for the past two years. I've previously contributed at Apple (for iTunes Desktop, Apple TV Music, and IOS Music), Beats Music (Web app and internal tools), and MOG among others. I like to focus on languages, patterns, and frameworks.
 
-I try to keep a pile of books on hand. Most recently, they would be:
-- [[https://softwarefoundations.cis.upenn.edu/current/index.html][Software Foundations]]
-- [[http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf][Category Theory: A Gentle Introduction]]
-- [[https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/][Type Theory and Functional Programming]]
-- [[http://www.kodanshausa.com/books/9781568364155/][Breaking into Japanese Literature]]
-- [[https://www.faber.co.uk/9780571283897-the-unconsoled.html][The Unconsoled]]
+I try to keep a pile of books on hand.
+Here's a link to my [[file:bookshelf.org][reading list]].
 
 I live in Tokyo by way of San Francisco, CA and Pittsburgh, PA.
 
