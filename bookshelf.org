@@ -1,0 +1,21 @@
+#+Title: My Reading List
+#+Author: Johnny Megahan
+#+Email: megahanj@acm.org
+#+Description: The reading list of Johnny Megahan.
+#+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
+
+* Currently Reading
+- [[http://www.kodanshausa.com/books/9781568364155/][Breaking into Japanese Literature]]
+
+* Summer Reading Queue
+- [[https://profilebooks.com/the-art-of-logic-hb.html][The Art of Logic]]
+- [[http://www.math.jhu.edu/~eriehl/context/][Category Theory in Context]]
+- [[http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven Sketches in Compositionality]]
+- [[https://www.harpercollins.com/9780060883287/one-hundred-years-of-solitude/][One Hundred Years of Solitude]]
+
+* Previously Read
+- [[https://softwarefoundations.cis.upenn.edu/current/index.html][Software Foundations]]
+- [[http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf][Category Theory: A Gentle Introduction]]
+- [[https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/][Type Theory and Functional Programming]]
+- [[https://www.faber.co.uk/9780571283897-the-unconsoled.html][The Unconsoled]]
+- [[https://profilebooks.com/how-to-bake-pi.html][How to Bake Pi]]
