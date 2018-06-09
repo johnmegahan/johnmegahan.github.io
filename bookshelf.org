@@ -5,7 +5,7 @@
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
 
 * Currently Reading
-- [[http://www.kodanshausa.com/books/9781568364155/][Breaking into Japanese Literature]]
+- [[http://www.kodanshausa.com/books/9781568364148/][Read Real Japanese (Essays)]]
 
 * Summer Reading Queue
 - [[https://profilebooks.com/the-art-of-logic-hb.html][The Art of Logic]]
@@ -19,3 +19,4 @@
 - [[https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/][Type Theory and Functional Programming]]
 - [[https://www.faber.co.uk/9780571283897-the-unconsoled.html][The Unconsoled]]
 - [[https://profilebooks.com/how-to-bake-pi.html][How to Bake Pi]]
+- [[http://www.kodanshausa.com/books/9781568364155/][Breaking into Japanese Literature]]
