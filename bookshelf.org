@@ -12,6 +12,7 @@
 - [[http://www.math.jhu.edu/~eriehl/context/][Category Theory in Context]]
 - [[http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven Sketches in Compositionality]]
 - [[https://www.harpercollins.com/9780060883287/one-hundred-years-of-solitude/][One Hundred Years of Solitude]]
+- [[http://www.kodanshausa.com/books/9781568365299/][Read Real Japanese (Fiction)]]
 
 * Previously Read
 - [[https://softwarefoundations.cis.upenn.edu/current/index.html][Software Foundations]]
@@ -20,3 +21,4 @@
 - [[https://www.faber.co.uk/9780571283897-the-unconsoled.html][The Unconsoled]]
 - [[https://profilebooks.com/how-to-bake-pi.html][How to Bake Pi]]
 - [[http://www.kodanshausa.com/books/9781568364155/][Breaking into Japanese Literature]]
+- [[https://www.penguinrandomhouse.com/books/115561/the-book-of-general-ignorance-by-john-mitchinson-and-john-lloyd/9780307394910][The Book of General Ignorance]]
