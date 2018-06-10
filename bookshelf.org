@@ -9,7 +9,7 @@
 
 * Summer reading list
 - [[https://profilebooks.com/the-art-of-logic-hb.html][The Art of Logic]]
-- [[http://www.math.jhu.edu/~eriehl/context/][Category Theory in Context]]
+- [[http://www.math.jhu.edu/~eriehl/context.pdf][Category Theory in Context]]
 - [[http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven Sketches in Compositionality]]
 - [[https://www.harpercollins.com/9780060883287/one-hundred-years-of-solitude/][One Hundred Years of Solitude]]
 - [[http://www.kodanshausa.com/books/9781568365299/][Read Real Japanese (Fiction)]]
