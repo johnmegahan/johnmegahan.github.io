@@ -6,7 +6,7 @@
 
 * ようこそ！
 
-Hello, I'm Johnny. I am a senior software engineer who is currently on sabbatical to study Category Theory and Japanese. I've been contributing to Uber's Web Platform team for the past two years. I've previously contributed at Apple (for iTunes Desktop, Apple TV Music, and IOS Music), Beats Music (Web app and internal tools), and MOG among others. I like to focus on languages, patterns, and frameworks.
+Hello, I'm Johnny. I am currently spending my time studying Category Theory and Japanese. I've most recently contributed as a Senior Engineer on Uber's Web Platform team. I've previously contributed at Apple (for iTunes Desktop, Apple TV Music, and IOS Music), Beats Music (Web app and internal tools), and MOG among others. I like to focus on languages, patterns, and frameworks.
 
 I try to keep a pile of books on hand.
 Here's a link to my [[file:bookshelf.org][reading list]].
