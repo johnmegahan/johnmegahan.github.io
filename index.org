@@ -1,7 +1,7 @@
-#+Title: Johnny Megahan, Software Engineer (Uber) - Tokyo, Japan
+#+Title: Johnny Megahan, Software Engineer - Tokyo, Japan
 #+Author: Johnny Megahan
 #+Email: megahanj@acm.org
-#+Description: The home page of Johnny Megahan, a senior software engineer who is currently contributing to Uber's Web Platform team.
+#+Description: The home page of Johnny Megahan, a software engineer.
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
 
 * ようこそ！
