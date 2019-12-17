@@ -4,16 +4,30 @@
 #+Description: The home page of Johnny Megahan, a software engineer.
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
 
-* ようこそ！
+* こんにちは！
 
-Hello, I'm Johnny. I am currently spending my time studying Category Theory and Japanese. I've most recently contributed as a Senior Engineer on Uber's Web Platform team. I've previously contributed at Apple (for iTunes Desktop, Apple TV Music, and IOS Music), Beats Music (Web app and internal tools), and MOG among others. I like to focus on languages, patterns, and frameworks.
+Hello, I'm Johnny.
 
-I try to keep a pile of books on hand.
-Here's a link to my [[file:bookshelf.org][reading list]].
+I like to focus on fitting functional patterns into domain
+logic. Recently I've done that in Haskell, Javascript, and OCaml.
 
-I live in Tokyo by way of San Francisco, CA and Pittsburgh, PA.
+Here's a link to my [[file:bookshelf.org][reading list]], though it is perpetually out of
+date.
+
+Shibuya, Tokyo is my home, after having spent much of my time in San
+Francisco, Wilmington, and Pittsburgh.
 
 I am most happy in the back corner booth of a warm cafe.
+
+After some time spent studying Japanese and Category Theory, I am
+currently working at Coursebase (Tokyo) on educational tools.
+
+Previous to that, I was:
+- Senior Engineer on Uber's Core Web Platform team
+- Senior Engineer on Apple's Music team (for iTunes Desktop, Apple TV
+  Music, and IOS Music)
+- Senior Engineer on Beats Music's Web team
+- Software Engineer at MOG, PBS, and others.
 
 You may find me on social media at the following sites:
 - [[http://twitter.com/johnmegahan][twitter: @johnmegahan]]
