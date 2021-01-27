@@ -5,15 +5,17 @@
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
 
 * Currently reading
-- [[http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven Sketches in Compositionality]]
+- [[https://profilebooks.com/work/the-art-of-logic/][The Art of Logic (How to Make Sense in a World that Doesn't)]]
 
-* Summer reading list
-- [[https://profilebooks.com/the-art-of-logic-hb.html][The Art of Logic]]
-- [[http://www.math.jhu.edu/~eriehl/context.pdf][Category Theory in Context]]
-- [[https://www.harpercollins.com/9780060883287/one-hundred-years-of-solitude/][One Hundred Years of Solitude]]
-- [[http://www.kodanshausa.com/books/9781568365299/][Read Real Japanese (Fiction)]]
+* Reading list
+- Currently empty! Looking for some good reads on GADTS, Rust, and
+  writing firmware.
 
 * Previously on the list
+- [[https://www.harpercollins.com/9780060883287/one-hundred-years-of-solitude/][One Hundred Years of Solitude]]
+- [[http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven Sketches in Compositionality]]
+- [[http://www.math.jhu.edu/~eriehl/context.pdf][Category Theory in Context]]
+- [[http://www.kodanshausa.com/books/9781568365299/][Read Real Japanese (Fiction)]]
 - [[http://www.kodanshausa.com/books/9781568364148/][Read Real Japanese (Essays)]]
 - [[https://softwarefoundations.cis.upenn.edu/current/index.html][Software Foundations]]
 - [[http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf][Category Theory: A Gentle Introduction]]
