@@ -3,6 +3,7 @@
 #+Email: megahanj@acm.org
 #+Description: The home page of Johnny Megahan, a software engineer.
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css" />
 
 Hello, I'm Johnny!
 
