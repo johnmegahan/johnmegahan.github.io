@@ -3,6 +3,7 @@
 #+Email: megahanj@acm.org
 #+Description: The reading list of Johnny Megahan.
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css" />
 
 * Currently reading
 - [[https://profilebooks.com/work/the-art-of-logic/][The Art of Logic (How to Make Sense in a World that Doesn't)]]
