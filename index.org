@@ -35,12 +35,8 @@ Here's a link to my [[file:bookshelf.org][reading list]]
 After some time spent studying Japanese and Category Theory, I am
 currently working at Coursebase (Tokyo) on educational software.
 
-Previous to that, I was:
-- Senior Engineer on Uber's Core Web Platform team
-- Senior Engineer on Apple's Music team (for iTunes Desktop, Apple TV
-  Music, and IOS Music)
-- Senior Engineer on Beats Music's Web team
-- Software Engineer at MOG, PBS, and others.
+Previous to that, I was a Senior Engineer at Uber, Apple, Beats Music,
+MOG, and PBS.
 
 ** 連絡
 :PROPERTIES:
