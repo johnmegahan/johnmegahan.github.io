@@ -5,33 +5,53 @@
 #+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css" />
 
-* Currently reading
-- [[https://profilebooks.com/work/the-art-of-logic/][The Art of Logic (How to Make Sense in a World that Doesn't)]]
+** Reading
+:PROPERTIES:
+:CUSTOM_ID: reading
+:END:
 
-* Reading list
-- Currently empty! Looking for some good reads on GADTS, Rust, and
-  writing firmware.
+- The Soul of a New Machine (Tracy Kidder)
+- Seven Sketches in Compositionality (Brendan Fong, David Spivak)
 
-* Previously on the list
-- [[https://www.harpercollins.com/9780060883287/one-hundred-years-of-solitude/][One Hundred Years of Solitude]]
-- [[http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf][Seven Sketches in Compositionality]]
-- [[http://www.math.jhu.edu/~eriehl/context.pdf][Category Theory in Context]]
-- [[http://www.kodanshausa.com/books/9781568365299/][Read Real Japanese (Fiction)]]
-- [[http://www.kodanshausa.com/books/9781568364148/][Read Real Japanese (Essays)]]
-- [[https://softwarefoundations.cis.upenn.edu/current/index.html][Software Foundations]]
-- [[http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf][Category Theory: A Gentle Introduction]]
-- [[https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/][Type Theory and Functional Programming]]
-- [[https://www.faber.co.uk/9780571283897-the-unconsoled.html][The Unconsoled]]
-- [[https://profilebooks.com/how-to-bake-pi.html][How to Bake Pi]]
-- [[http://www.kodanshausa.com/books/9781568364155/][Breaking into Japanese Literature]]
-- [[https://www.penguinrandomhouse.com/books/115561/the-book-of-general-ignorance-by-john-mitchinson-and-john-lloyd/9780307394910][The Book of General Ignorance]]
-- [[https://www.twelvebooks.com/titles/john-dickerson/whistlestop/9781455540488/][Whistlestop]]
-- [[https://www.penguinrandomhouse.com/books/315552/believer-by-david-axelrod/9780143128359][Believer: My Forty Years in Politics]]
-- [[http://www.neomarxisme.com][Ametora: How Japan Saved American Style]]
-- [[http://www.harukimurakami.com/book/1q84][1Q84]]
-- [[http://www.harukimurakami.com/book/kafka-on-the-shore][Kafka on the Shore]]
-- [[http://www.harukimurakami.com/book/the-wind-up-bird-chronicle][The Wind-Up Bird Chronicle]]
-- [[https://www.harpercollins.com/9780060188702/don-quixote/][Don Quixote (Grossman translation)]]
-- [[http://books.wwnorton.com/books/978-0-393-35562-8/][Surely You're Joking, Mr. Feynman!]]
-- [[http://www.simonandschuster.com/books/Where-Wizards-Stay-Up-Late/Katie-Hafner/9780684832678][Where Wizards Stay Up Late: The Origins of the Internet]]
-- [[https://www.penguin.co.uk/books/193465/the-idea-factory/][The Idea Factory: Bell Labs and the Great Age of American Innovation]]
+** To Read
+:PROPERTIES:
+:CUSTOM_ID: to-read
+:END:
+
+- Category Theory in Context (Emily Riehl)
+
+** Read
+:PROPERTIES:
+:CUSTOM_ID: read
+:END:
+
+- The Book of Yokai (Michael Dylan Foster)
+- The Hidden Game of Baseball: A Revolutionary Approach to Baseball and Its Statistics (David Reuther, John Thorn, and Pete Palmer)
+- The Little MLer (Matthias Felleisen)
+- The Art of Logic (Eugenia Cheng)
+- Read Real Japanese Essays: Contemporary Writings by Popular Authors (Janet Ashby)
+- Read Real Japanese Fiction: Short Stories by Contemporary Writers (Michael Emmerich)
+- One Hundred Years of Solitude (Gabriel Garcia Marquez)
+- Fundamentals of Software Architecture (Mark Richards, Neal Ford)
+- Software Foundations
+- Category Theory: A Gentle Introduction (Peter Smith)
+- Type Theory and Functional Programming (Simon Thompson)
+- The Unconsoled (Kazuo Ishiguro)
+- How to Bake Pi (Eugenia Cheng)
+- Breaking into Japanese Literature: Seven Modern Classics in Parallel Text (Giles Murray)
+- The Book of General Ignorance (John Mitchinson, John Lloyd)
+- Whistlestop (John Dickerson)
+- Believer: My Forty Years in Politics (David Axelrod)
+- Ametora: How Japan Saved American Style (W. David Marx)
+- Don Quixote (Miguel de Cervantes, Edith Grossman)
+- Surely You're Joking, Mr. Feynman! (Richard Feynman)
+- Where Wizards Stay Up Late: The Origins of the Internet (Katie Hafner)
+- The Idea Factory: Bell Labs and the Great Age of American Innovation (Jon Gertner)
+- Masterminds of Programming: Conversations with the Creators of Major Programming Languages (Federico Biancuzzi)
+- Land of Lisp (Conrad Barski)
+- American Gods (Neil Gaiman)
+- Coders at Work (Peter Seibel)
+- 1Q84 (Murakami) (Note: This is when I stopped reading Murakami)
+- Kafka on the Shore (Murakami)
+- The Wind-Up Bird Chronicle (Murakami)
+>>>>>>> 1b170d7... Remove old busted links
