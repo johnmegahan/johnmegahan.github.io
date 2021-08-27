@@ -11,8 +11,8 @@
 :END:
 
 I'm a former Yinzer, Delawarean, Floridian, San Franciscan, and a
-current Tokyoite, happily living in the outskirts of Shibuya with my
-wife and our pup.
+current Tokyoite, happily living on the edge of Shibuya with my wife
+and our pup.
 
 On the technical side of things, I'm interested in effect and type
 systems, functional languages, domain design, software architecture,
