@@ -11,20 +11,24 @@
 :END:
 
 - The Soul of a New Machine (Tracy Kidder)
-- Seven Sketches in Compositionality (Brendan Fong, David Spivak)
 
 ** To Read
 :PROPERTIES:
 :CUSTOM_ID: to-read
 :END:
 
-- Category Theory in Context (Emily Riehl)
+- Skunk Works: A Personal Memoir of My Years of Lockheed (Ben R. Rich, Leo Janos)
+- Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age (Michael Hiltzik)
+- The Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture (Brian Dear)
+- Hackers: Heroes of the Computer Revolution (Steven Levy)
 
 ** Read
 :PROPERTIES:
 :CUSTOM_ID: read
 :END:
 
+- Category Theory in Context (Emily Riehl)
+- Seven Sketches in Compositionality (Brendan Fong, David Spivak)
 - The Book of Yokai (Michael Dylan Foster)
 - The Hidden Game of Baseball: A Revolutionary Approach to Baseball and Its Statistics (David Reuther, John Thorn, and Pete Palmer)
 - The Little MLer (Matthias Felleisen)
