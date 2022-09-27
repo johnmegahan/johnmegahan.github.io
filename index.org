@@ -10,42 +10,30 @@
 :CUSTOM_ID: about
 :END:
 
-I'm a former Yinzer, Delawarean, Floridian, San Franciscan, and a
-current Tokyoite, happily living on the edge of Shibuya with my wife
-and our pup.
+I'm a former Yinzer, San Franciscan, and a current Tokyoite, happily living on
+the edge of Shibuya with my wife and our pup.
 
-On the technical side of things, I'm interested in effect and type
-systems, functional languages, domain design, software architecture,
-and the over-arching over-archingness that is Category Theory. On the
-fun side of things I enjoy getting obsessively deep into various
-hobbies for seemingly shorter and shorter amounts of time. Recently
-I've taken to gardening, bonsai, and leathercraft... or as much as a
-Tokyo apartment will allow you to enjoy those things.
+On the technical side of things, I'm interested in effect and type systems,
+functional languages, domain design, software architecture, and systems design.
+I enjoy a variety of hobbies and recently I've been spending much of my free
+time painting watercolor.
 
-I don't really have any plans for writing a whole lot here, but I do plan to
-start keeping more and more of my notes here.
-
-Here's a link to my [[file:bookshelf.org][reading list]]
+Here's a link to my [[file:bookshelf.org][current reading list]]
 
 ** 仕事
 :PROPERTIES:
 :CUSTOM_ID: work
 :END:
 
-After some time spent studying Japanese and Category Theory, I am
-currently working at Coursebase (Tokyo) on educational software.
+I am currently working at Coursebase (Tokyo) on educational software.
 
-Previous to that, I was a Senior Engineer at Uber, Apple, Beats Music,
-MOG, and PBS.
+Previous to that I took some time off to study Japanese and Category Theory.
+Before that I was a Senior Software Engineer at Uber, Apple, Beats Music, MOG,
+and PBS.
 
 ** 連絡
 :PROPERTIES:
 :CUSTOM_ID: contact
 :END:
 
-You may find me on social media at the following sites:
-- [[http://twitter.com/johnmegahan][twitter: @johnmegahan]]
-- [[https://github.com/johnmegahan][github: @johnmegahan]]
-- [[http://www.linkedin.com/in/johnmegahan/][linkedin: @johnmegahan]]
-
-You may email me at [[mailto:megahanj@acm.org][megahanj@acm.org]]
+I view social media mostly as read-only but you may email me at [[mailto:megahanj@acm.org][megahanj@acm.org]]
