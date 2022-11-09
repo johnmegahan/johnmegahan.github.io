@@ -40,10 +40,10 @@ down the stack building educational software.
 
 Previous to that I was an engineer at:
 
-Uber, where I worked on core frameworks and systems for web services
-Apple, where I worked on planning and frameworks for Apple Music and AppleTv
-Beats Music, where I worked on the system and architecture for the browser-based web player
-PBS (wedu), where I worked on building low-cost, high performance web services
+- Uber, where I worked on core frameworks and systems for web services  
+- Apple, where I worked on planning and frameworks for Apple Music and AppleTv  
+- Beats Music, where I worked on the system and architecture for the browser-based web player  
+- PBS (wedu), where I worked on building low-cost, high performance web services  
 
 ** 連絡
 :PROPERTIES:
