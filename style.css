@@ -7,4 +7,5 @@ html {
 #content {
     max-width: 33em;
     margin: auto;
+    font-family: sans-serif;
 }
