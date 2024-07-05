@@ -1,8 +1,9 @@
 html {
-    background-color: #e3d9c6;
+    background-color: #e3d9c6;   
+}
+.title {
     font-family: Chicago, Krungthep, Silom, sans-serif;
 }
-
 #content {
     max-width: 33em;
     margin: auto;
