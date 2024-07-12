@@ -1,0 +1,20 @@
+= Hello there,
+:hide-uri-scheme:
+
+I am Johnny, a former Yinzer, Delawarean, San Franciscan, and a current
+Tokyoite. I happily live on the edge of Shibuya with my wife and our dog, where
+we enjoy walking around our little neighborhood... except in the summer, when
+it is too hot to do much of anything outside and we all become inside cats.
+
+I love to make things. And I love to learn. I especially love to learn how to
+make things, and how other people make or have made things. This has lead me
+down a number of interesting paths, most recently to Japan. That eventually
+lead me to Coursebase, where I work on building learning systems. Previously, I
+made other things at Uber, Apple, and Beats Music, which eventually became
+Apple Music.
+
+I have stopped using social media, so I thought I might write here more.
+
+== Links
+
+- link:./bookshelf.html[Bookshelf]

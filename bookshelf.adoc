@@ -1,29 +1,15 @@
-#+Title: My Reading List
-#+Author: Johnny Megahan
-#+Email: megahanj@acm.org
-#+Description: The reading list of Johnny Megahan.
-#+Options: html-style:nil html-scripts:nil html-postamble:nil toc:nil num:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/style.css" />
+= My Reading List
 
-** Reading
-:PROPERTIES:
-:CUSTOM_ID: reading
-:END:
+A hugely incomplete list of the books I've read lately.
 
-- The Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture (Brian Dear)
+== Reading
 
-** To Read
-:PROPERTIES:
-:CUSTOM_ID: to-read
-:END:
+- Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs (Ken Kocienda)
+- Mythos (Stephen Fry)
 
-- Hackers: Heroes of the Computer Revolution (Steven Levy)
+== Read
 
-** Read
-:PROPERTIES:
-:CUSTOM_ID: read
-:END:
-
+- BUILD: An Unorthodox Guide to Making Things Worth Making (Tony Fadell)
 - The Soul of a New Machine (Tracy Kidder)
 - Skunk Works: A Personal Memoir of My Years of Lockheed (Ben R. Rich, Leo Janos)
 - Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age (Michael Hiltzik)
@@ -55,6 +41,6 @@
 - Land of Lisp (Conrad Barski)
 - American Gods (Neil Gaiman)
 - Coders at Work (Peter Seibel)
-- 1Q84 (Murakami) (Note: This is when I stopped reading Murakami)
+- 1Q84 (Murakami)
 - Kafka on the Shore (Murakami)
 - The Wind-Up Bird Chronicle (Murakami)
